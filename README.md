@@ -1,7 +1,7 @@
-# demo_repo100
- # demo-repo for demos
- a new line is aadded
- adding line number 3
+ # demo-repo for demostration purpose
+ ## Header line 2
+ this is a normal text ine
 
- ##level 4 header
- this line added in the remote repo
+ ### level 3 header
+ a new line is aadded in the local repo
+ adding line number 3
